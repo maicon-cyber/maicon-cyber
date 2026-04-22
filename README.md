@@ -14,5 +14,5 @@ Atualmente sou estudante de Cibersegurança. Trago uma visão prática do meu di
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 📫 Como me encontrar:
-* [Meu LinkedIn]https://www.linkedin.com/in/usermd/
+* [Meu LinkedIn](https://www.linkedin.com/in/usermd/)
 # maicon-cyber
