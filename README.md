@@ -53,7 +53,7 @@ Atualmente, sou estudante dedicado de Cibersegurança. Minha vivência prática 
 ## 📬 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USER_DO_LINKEDIN_AQUI/">
+  <a href="https://www.linkedin.com/in/usermd/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
